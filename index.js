@@ -1,5 +1,3 @@
-import apiKey from "./config";
-
 // DOM elements
 const movieCardsContainer = document.getElementById("movie-cards");
 const loader = document.getElementById("loader");
