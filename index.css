@@ -1,0 +1,29 @@
+.movie-card .card-img-top {
+    object-fit: cover;
+    height: 420px;
+  }
+  .dropdown-item {
+    cursor: pointer;
+  }
+  #category-btn {
+    width: 100%;
+  }
+  #loader {
+    display: none;
+    text-align: center;
+  }
+  body {
+    min-height: 100vh;
+  }
+  main {
+    margin-top: 80px;
+  }
+  
+  @media (min-width: 992px) {
+    #search-input {
+      max-width: 300px;
+    }
+    #category-btn {
+      width: 160px;
+    }
+  }
