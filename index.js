@@ -1,12 +1,11 @@
+import apiKey from "./config";
+
 // DOM elements
 const movieCardsContainer = document.getElementById("movie-cards");
 const loader = document.getElementById("loader");
 const searchInput = document.getElementById("search-input");
 const categorySelect = document.getElementById("category-select");
 const categoryBtn = document.getElementById("category-btn");
-
-// TMDB API key
-const apiKey = "b73c5b736dd44eea79b3ab8e3d608f32";
 
 // Create a movie card
 function createMovieCard(movie) {
