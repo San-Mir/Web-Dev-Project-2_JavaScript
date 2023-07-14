@@ -1,4 +1,4 @@
-![CAB Logo](https://github.com/San-Mir/Web-Development-Bootcamp/assets/7897103/7c6cc878-6e04-4cae-a014-6bc69c73ff95)
+![CAB Logo](https://github.com/San-Mir/Project_2-JavaScript/assets/7897103/c8e14af1-bca6-4144-a6df-5e58b04edbc6)
 
 # The Curriculum
 
